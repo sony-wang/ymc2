@@ -1,9 +1,9 @@
 <template>
-    <div>
-        <!-- <NuxtLink to="/about">About</NuxtLink>
-        <NuxtLink to="/contact">Contact</NuxtLink> -->
-        <NuxtPage />
-    </div>
+  <div>
+    <!-- <NuxtLink to="/about">About</NuxtLink>
+    <NuxtLink to="/contact">Contact</NuxtLink> -->
+    <NuxtPage />
+  </div>
 </template>
 
 <script>
